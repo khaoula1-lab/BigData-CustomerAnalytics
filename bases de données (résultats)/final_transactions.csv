@@ -1,0 +1,794 @@
+session_id,user_id,product_title,category,montant_paye,methode_paiement,statut_paiement
+3b7d464e,145,Mens Cotton Jacket,men's clothing,55.56999969482422,virement,succès
+85c98f13,194,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,10.140000343322754,carte,succès
+1bfebcca,85,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,101.44999694824219,carte,succès
+1ca117d1,121,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,46.88999938964844,carte,échoué
+006f363e,145,Opna Women's Short Sleeve Moisture,women's clothing,7.769999980926514,carte,succès
+e186250a,36,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,90.54000091552734,paypal,succès
+f5993260,92,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,640.489990234375,paypal,succès
+8e817004,40,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,10.34000015258789,paypal,échoué
+e7596dc6,168,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,59.959999084472656,virement,en_attente
+5e338f36,3,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,813.530029296875,carte,échoué
+9175a086,178,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,88.05000305175781,carte,en_attente
+4a378d07,135,Mens Casual Slim Fit,men's clothing,13.899999618530273,virement,succès
+d3c9d4ce,171,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,661.1400146484375,virement,succès
+d78a37c3,144,Solid Gold Petite Micropave ,jewelery,152.6300048828125,paypal,échoué
+7af239ee,152,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,101.08999633789062,carte,échoué
+eb44b4f6,20,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,8.329999923706055,carte,en_attente
+74394153,52,Solid Gold Petite Micropave ,jewelery,165.77999877929688,carte,succès
+2f11f1dc,102,White Gold Plated Princess,jewelery,9.079999923706055,carte,échoué
+0c6088f8,95,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,52.45000076293945,virement,en_attente
+f59673cb,12,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,90.66000366210938,virement,échoué
+2ce634d4,25,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,38.290000915527344,carte,en_attente
+2e430b4c,103,Opna Women's Short Sleeve Moisture,women's clothing,6.630000114440918,carte,succès
+e4a6f29b,43,Mens Casual Slim Fit,men's clothing,13.4399995803833,virement,succès
+222fe2c3,51,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,93.36000061035156,carte,succès
+c524385a,48,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,533.1300048828125,paypal,succès
+93ddecb5,38,Solid Gold Petite Micropave ,jewelery,150.27000427246094,carte,en_attente
+3ef74343,1,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,96.33999633789062,virement,en_attente
+c01b0d26,41,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,92.0999984741211,virement,succès
+84be621e,72,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,521.4099731445312,carte,succès
+23198721,41,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,56.70000076293945,virement,échoué
+90e175cd,65,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,11.970000267028809,virement,échoué
+fd34d20c,131,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,18.65999984741211,paypal,succès
+a317d5c9,62,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,9.779999732971191,carte,en_attente
+84480e6e,42,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,53.88999938964844,virement,en_attente
+071cae4d,103,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,29.489999771118164,paypal,succès
+7f4c3d84,191,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,9.649999618530273,paypal,succès
+9dc6a302,123,Mens Cotton Jacket,men's clothing,46.380001068115234,paypal,échoué
+fc90d545,148,Mens Casual Slim Fit,men's clothing,14.390000343322754,virement,échoué
+11d40863,119,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,597.6699829101562,carte,échoué
+ff4c4f39,197,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,9.329999923706055,paypal,succès
+41e68e25,101,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,109.93000030517578,paypal,succès
+02f37f55,193,Mens Casual Slim Fit,men's clothing,14.90999984741211,virement,succès
+56b945a7,11,White Gold Plated Princess,jewelery,9.029999732971191,carte,succès
+10d2d80a,107,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,29.290000915527344,carte,succès
+9353f31e,139,Opna Women's Short Sleeve Moisture,women's clothing,6.679999828338623,virement,échoué
+31411260,148,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,28.8799991607666,virement,succès
+51dcc5ce,51,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,34.90999984741211,paypal,échoué
+627c8f3e,176,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,106.25,virement,succès
+d3c4f4c4,22,Mens Cotton Jacket,men's clothing,51.540000915527344,carte,succès
+8879d0d8,54,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,113.88999938964844,paypal,succès
+52b7e71f,167,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,597.8900146484375,carte,succès
+a8916dc4,13,Opna Women's Short Sleeve Moisture,women's clothing,7.590000152587891,carte,en_attente
+c28c3cfe,41,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,93.91999816894531,paypal,échoué
+9446c210,196,Solid Gold Petite Micropave ,jewelery,149.7100067138672,virement,en_attente
+379086d1,89,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,106.08000183105469,paypal,succès
+d7e51c2e,43,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,914.4400024414062,paypal,succès
+efe48cb6,68,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,95.11000061035156,paypal,succès
+bd77537e,130,Mens Cotton Jacket,men's clothing,52.869998931884766,carte,succès
+34323d60,168,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,55.060001373291016,virement,succès
+e8c42c1b,30,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,514.3200073242188,carte,en_attente
+44bf97cc,56,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,53.529998779296875,virement,succès
+1f1d75ad,164,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,984.510009765625,carte,échoué
+b3a17e96,128,Mens Cotton Jacket,men's clothing,51.529998779296875,virement,en_attente
+295f1d27,48,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,606.9600219726562,paypal,succès
+18e262a9,85,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,99.91000366210938,carte,échoué
+3d9811dd,86,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,9.579999923706055,carte,en_attente
+7b6bd27f,198,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,10.829999923706055,paypal,en_attente
+8716327f,152,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,39.13999938964844,paypal,succès
+375aa400,38,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,62.22999954223633,paypal,succès
+4fcead6d,189,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,91.1500015258789,virement,échoué
+5a665e54,111,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,874.1400146484375,carte,succès
+3fa0af02,22,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,29.780000686645508,paypal,en_attente
+9ae5627c,25,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,104.69000244140625,carte,en_attente
+9d41356e,39,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,486.2099914550781,virement,échoué
+f6ebc547,161,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,51.09000015258789,virement,succès
+875381af,152,Opna Women's Short Sleeve Moisture,women's clothing,7.880000114440918,paypal,succès
+48765c12,119,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,108.83999633789062,carte,succès
+7216b3ac,187,Mens Casual Slim Fit,men's clothing,14.220000267028809,virement,succès
+391ae685,100,Solid Gold Petite Micropave ,jewelery,139.14999389648438,virement,succès
+a17743ae,162,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,10.210000038146973,paypal,succès
+df22a0e3,192,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,103.83999633789062,virement,en_attente
+f77af086,117,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,97.62000274658203,paypal,échoué
+d235106e,19,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,56.61000061035156,paypal,échoué
+2e92c982,161,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,103.44999694824219,paypal,succès
+e2ddcfb8,38,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,19.190000534057617,virement,succès
+a655781a,89,Mens Cotton Jacket,men's clothing,50.72999954223633,carte,en_attente
+7c51e080,70,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,95.41000366210938,paypal,échoué
+63d3c100,44,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,538.8300170898438,virement,succès
+a3f741b7,83,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,800.780029296875,paypal,échoué
+9c37a3b5,20,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,96.72000122070312,virement,succès
+a233d1c1,180,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,61.279998779296875,carte,succès
+21f9d4c5,51,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,101.80000305175781,virement,succès
+cb2d66d8,129,Solid Gold Petite Micropave ,jewelery,139.83999633789062,paypal,en_attente
+0e81e2a4,35,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,24.729999542236328,virement,en_attente
+c2916be7,91,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,37.86000061035156,carte,en_attente
+06dee880,66,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,8.989999771118164,carte,en_attente
+f7296201,80,Solid Gold Petite Micropave ,jewelery,163.05999755859375,virement,succès
+5deb5a79,144,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,56.439998626708984,virement,en_attente
+3bb5ae33,141,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,9.5600004196167,carte,succès
+8ae982b4,146,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,52.81999969482422,carte,échoué
+b4cc3f3c,33,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,103.80999755859375,virement,échoué
+ba250298,139,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,541.3400268554688,virement,succès
+d0529510,9,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,94.7699966430664,virement,succès
+0eb18b81,73,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,21.530000686645508,virement,en_attente
+b15aa006,166,White Gold Plated Princess,jewelery,8.449999809265137,paypal,succès
+61b189c7,57,Opna Women's Short Sleeve Moisture,women's clothing,6.690000057220459,carte,succès
+aa489fe5,102,Mens Cotton Jacket,men's clothing,55.84000015258789,paypal,succès
+0f60bd09,84,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,685.489990234375,paypal,succès
+e1a6c11d,76,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,104.36000061035156,virement,succès
+6e4c6593,164,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,10.8100004196167,paypal,succès
+ad5fd763,182,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,613.9299926757812,paypal,succès
+90cfb932,10,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,62.91999816894531,carte,succès
+58406b6d,104,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,920.4299926757812,paypal,succès
+7a07e2f8,87,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,32.9900016784668,virement,succès
+1e5e6b3e,132,Solid Gold Petite Micropave ,jewelery,141.27999877929688,carte,succès
+39be346d,139,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,28.399999618530273,carte,échoué
+405f2e03,3,Opna Women's Short Sleeve Moisture,women's clothing,7.929999828338623,virement,en_attente
+f6231be5,110,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,12.579999923706055,paypal,en_attente
+a842c055,158,Mens Cotton Jacket,men's clothing,53.33000183105469,paypal,échoué
+7be1f9b4,86,Mens Casual Slim Fit,men's clothing,14.079999923706055,virement,succès
+0c5e1a78,55,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,57.040000915527344,paypal,succès
+3e93fc93,1,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,9.420000076293945,carte,succès
+f10e2df4,145,Solid Gold Petite Micropave ,jewelery,150.33999633789062,paypal,en_attente
+db2f3d8b,53,White Gold Plated Princess,jewelery,9,paypal,échoué
+64c17ead,154,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,824.010009765625,carte,succès
+8aa4a832,84,Mens Casual Slim Fit,men's clothing,13.40999984741211,paypal,en_attente
+826d6172,75,White Gold Plated Princess,jewelery,9.329999923706055,paypal,succès
+fba47e99,48,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,97.36000061035156,paypal,succès
+b27d4ab5,175,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,9.539999961853027,virement,succès
+2e2daa46,197,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,27.43000030517578,virement,succès
+82fd2351,26,Mens Cotton Jacket,men's clothing,45.40999984741211,carte,succès
+091b0719,145,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,58.75,paypal,succès
+6cb0fdfd,81,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,97.72000122070312,virement,échoué
+41ff5407,19,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,873.3599853515625,virement,succès
+c535f5ca,103,Mens Casual Slim Fit,men's clothing,14.489999771118164,paypal,en_attente
+041ad251,21,White Gold Plated Princess,jewelery,8.039999961853027,virement,échoué
+79367a0e,92,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,10.399999618530273,carte,échoué
+29c0d64c,72,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,102.27999877929688,paypal,succès
+433be910,68,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,110.1500015258789,virement,succès
+b5d3de56,12,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,29.09000015258789,paypal,succès
+c9f2101a,199,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,96.36000061035156,paypal,en_attente
+e58f9c2e,171,White Gold Plated Princess,jewelery,9.100000381469727,carte,en_attente
+87abecb3,144,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,61.65999984741211,paypal,succès
+3ab21854,107,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,975.3099975585938,carte,en_attente
+330f5d8b,87,Opna Women's Short Sleeve Moisture,women's clothing,7.710000038146973,paypal,succès
+c8dac5d5,59,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,12.180000305175781,paypal,succès
+a58d3d5d,196,Opna Women's Short Sleeve Moisture,women's clothing,7.829999923706055,paypal,succès
+37adbbdc,27,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,11.890000343322754,virement,en_attente
+84055da5,127,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,20.420000076293945,virement,échoué
+10badf90,188,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,56.83000183105469,virement,succès
+e5591c45,84,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,582.9500122070312,carte,échoué
+90398444,146,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,831.8300170898438,carte,succès
+551d248e,164,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,46.849998474121094,carte,échoué
+6e7498ab,153,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,573.489990234375,virement,succès
+dd82aadf,85,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,11.609999656677246,carte,succès
+669507a4,48,Solid Gold Petite Micropave ,jewelery,150.10000610351562,virement,succès
+cf92147e,180,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,9.680000305175781,carte,succès
+b030bfd4,149,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,110.6500015258789,paypal,succès
+8ac50b5a,32,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,515.0999755859375,virement,succès
+42a0198b,8,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,53.58000183105469,virement,en_attente
+521abaa9,115,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,32.54999923706055,carte,en_attente
+659a753e,92,Mens Cotton Jacket,men's clothing,45.70000076293945,paypal,en_attente
+1930e681,192,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,598.1500244140625,carte,succès
+63b797cf,27,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,32.0099983215332,carte,échoué
+5c959986,102,Opna Women's Short Sleeve Moisture,women's clothing,7.769999980926514,carte,succès
+63e4d3c3,137,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,11.319999694824219,paypal,succès
+debb51a5,19,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,525.97998046875,carte,succès
+c8117dae,17,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,29.3799991607666,virement,en_attente
+2eafb832,158,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,18.68000030517578,virement,succès
+de59d25c,103,Mens Cotton Jacket,men's clothing,48.93000030517578,virement,en_attente
+a0b49c53,184,Solid Gold Petite Micropave ,jewelery,165.41000366210938,paypal,succès
+f3ea90ee,35,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,56.66999816894531,carte,en_attente
+8cab45dd,28,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,93.51000213623047,virement,succès
+aee1632d,47,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,38.33000183105469,virement,succès
+9c489f4f,151,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,11.300000190734863,virement,en_attente
+deed446a,179,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,490.6300048828125,virement,succès
+3e83c403,129,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,20.459999084472656,virement,succès
+e84fcdb5,161,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,567.6699829101562,virement,succès
+3b96068e,137,Solid Gold Petite Micropave ,jewelery,165.58999633789062,virement,succès
+fdd8a060,188,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,60.7599983215332,paypal,succès
+e68a8332,185,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,98.66000366210938,paypal,échoué
+a8567c9d,32,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,26.239999771118164,paypal,succès
+5984835e,73,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,8.710000038146973,paypal,succès
+47993153,148,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,10.789999961853027,paypal,échoué
+3772c8f4,140,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,99.38999938964844,virement,échoué
+c42e4447,152,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,25.1299991607666,paypal,succès
+4bd5fff7,20,Opna Women's Short Sleeve Moisture,women's clothing,7.25,paypal,succès
+3625be7f,13,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,12.130000114440918,carte,échoué
+c5b54e6a,163,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,61.439998626708984,carte,échoué
+7a2122f1,145,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,93.94999694824219,virement,succès
+8a17d14a,86,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,26.229999542236328,carte,échoué
+7a2926ca,114,White Gold Plated Princess,jewelery,9.350000381469727,carte,en_attente
+31b89a37,26,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,97.66000366210938,paypal,succès
+147c7fba,118,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,480.5400085449219,paypal,en_attente
+451e2087,107,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,8.920000076293945,paypal,succès
+04250392,128,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,8.649999618530273,virement,succès
+8eb4a146,82,Opna Women's Short Sleeve Moisture,women's clothing,7.599999904632568,carte,succès
+212af465,173,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,93.2300033569336,paypal,succès
+8d15390a,78,Mens Cotton Jacket,men's clothing,53.08000183105469,paypal,succès
+82c53961,157,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,603.9500122070312,paypal,succès
+e4881aad,136,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,98.58999633789062,virement,en_attente
+49b9e990,88,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,996.25,virement,succès
+9b75236f,51,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,37.88999938964844,paypal,succès
+2c9440a7,56,Opna Women's Short Sleeve Moisture,women's clothing,6.619999885559082,paypal,en_attente
+a2f90ccd,86,Mens Cotton Jacket,men's clothing,55.5099983215332,virement,succès
+dbed0386,151,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,88.94000244140625,paypal,succès
+66fae229,4,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,32.459999084472656,paypal,succès
+9c4e66a1,87,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,8.520000457763672,paypal,succès
+6ff6688c,50,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,12.390000343322754,carte,en_attente
+b58b3c54,125,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,88.62999725341797,virement,échoué
+ed49248e,167,Opna Women's Short Sleeve Moisture,women's clothing,7.170000076293945,paypal,succès
+57350220,91,White Gold Plated Princess,jewelery,9.430000305175781,paypal,en_attente
+6a136236,100,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,9.260000228881836,paypal,succès
+62e62bcc,136,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,902.489990234375,carte,succès
+b0f51bfa,138,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,25.719999313354492,virement,échoué
+7262c519,7,Opna Women's Short Sleeve Moisture,women's clothing,7.039999961853027,carte,en_attente
+19c311e4,66,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,107.62999725341797,carte,succès
+48a6e46a,122,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,842.1199951171875,paypal,en_attente
+d3bee833,120,White Gold Plated Princess,jewelery,9.470000267028809,paypal,échoué
+5d15caab,135,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,9.630000114440918,paypal,succès
+c81de4ff,191,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,33.86000061035156,carte,succès
+611442c0,195,Opna Women's Short Sleeve Moisture,women's clothing,7.239999771118164,paypal,échoué
+3657c957,82,Mens Casual Slim Fit,men's clothing,15.979999542236328,paypal,en_attente
+848d1b0c,117,Solid Gold Petite Micropave ,jewelery,154.24000549316406,carte,échoué
+1a4ef205,82,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,924.280029296875,paypal,succès
+25d5d726,46,Opna Women's Short Sleeve Moisture,women's clothing,6.710000038146973,carte,échoué
+3072afc7,116,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,12.869999885559082,carte,en_attente
+6071ac2c,19,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,107.23999786376953,carte,succès
+37ee6c72,8,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,594.4099731445312,virement,succès
+3ed47201,167,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,104.43000030517578,carte,succès
+3d0d3330,50,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,45.880001068115234,virement,succès
+7fd9ba6e,111,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,25.799999237060547,carte,échoué
+8a3a9f94,67,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,11.329999923706055,carte,en_attente
+6698fdb4,17,White Gold Plated Princess,jewelery,8.960000038146973,virement,succès
+619d773f,174,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,106.80000305175781,paypal,en_attente
+0d8eaf33,3,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,88.69000244140625,carte,succès
+aff14e65,16,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,55.33000183105469,paypal,échoué
+2c65f2bd,18,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,8.550000190734863,carte,succès
+439869b8,33,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,21.139999389648438,paypal,échoué
+89f19e9d,69,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,27.420000076293945,paypal,succès
+7443a463,8,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,12.100000381469727,virement,succès
+c7d1e801,193,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,573.0599975585938,carte,échoué
+930b437b,46,Solid Gold Petite Micropave ,jewelery,164.02000427246094,paypal,succès
+149e0b93,165,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,39.31999969482422,virement,succès
+a3943c0d,12,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,88.44000244140625,paypal,succès
+5788fa4e,2,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,614.5599975585938,carte,succès
+d3334f9a,38,White Gold Plated Princess,jewelery,9.5600004196167,paypal,en_attente
+0969be23,186,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,56.18000030517578,paypal,succès
+21254592,35,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,8.119999885559082,virement,succès
+1f62a5fc,154,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,98.05999755859375,carte,succès
+9cb14984,153,White Gold Plated Princess,jewelery,8.0600004196167,paypal,succès
+914c9240,125,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,528.4299926757812,carte,échoué
+06592ebd,60,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,54.06999969482422,paypal,succès
+9b621edc,140,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,50.93000030517578,virement,échoué
+74db7da3,141,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,24.709999084472656,paypal,succès
+39cd3b50,177,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,19.049999237060547,carte,succès
+093c8346,70,Mens Cotton Jacket,men's clothing,52.2599983215332,virement,en_attente
+56e3a620,145,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,9.239999771118164,virement,succès
+469da2a3,115,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,593.2100219726562,carte,succès
+c77c46a8,109,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,11.270000457763672,paypal,succès
+6a4d7889,191,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,39.68000030517578,virement,succès
+ebd7b2a1,42,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,18.520000457763672,carte,en_attente
+5939e0a1,106,Mens Cotton Jacket,men's clothing,48.79999923706055,paypal,succès
+e819d0e2,95,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,572.010009765625,carte,succès
+ddce0501,181,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,100.16999816894531,paypal,succès
+9b3dfd23,143,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,571.280029296875,paypal,succès
+092c339a,100,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,47.310001373291016,paypal,échoué
+e4671498,178,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,29.350000381469727,paypal,en_attente
+848548b5,155,Mens Casual Slim Fit,men's clothing,14.289999961853027,virement,succès
+aea99a6a,41,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,975.6599731445312,paypal,en_attente
+7ced3ea4,143,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,9.15999984741211,virement,échoué
+60091b34,121,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,12.59000015258789,paypal,succès
+ee7e7fcb,124,Solid Gold Petite Micropave ,jewelery,159.19000244140625,carte,échoué
+e1b6d522,34,Solid Gold Petite Micropave ,jewelery,134.52999877929688,paypal,succès
+45f6e393,84,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,11.069999694824219,carte,succès
+a07a26f1,49,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,54.439998626708984,virement,succès
+630f6d36,153,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,107.58000183105469,virement,succès
+232dcd34,127,Mens Casual Slim Fit,men's clothing,13.369999885559082,carte,succès
+3d0e60e8,175,Solid Gold Petite Micropave ,jewelery,167.3800048828125,virement,succès
+e3d23f36,157,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,923.030029296875,paypal,succès
+193cf954,42,Solid Gold Petite Micropave ,jewelery,147.89999389648438,virement,succès
+5b83f627,139,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,9.859999656677246,paypal,en_attente
+76780739,121,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,567.3699951171875,paypal,succès
+c84c67da,194,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,864.739990234375,paypal,en_attente
+4e451899,94,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,37.119998931884766,virement,échoué
+f26c2f70,161,Mens Casual Slim Fit,men's clothing,14.180000305175781,carte,succès
+1c23fca7,114,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,643.8699951171875,carte,en_attente
+6c111deb,41,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,95.79000091552734,virement,en_attente
+5e10382c,43,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,578.9000244140625,paypal,succès
+63c911d6,153,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,107.97000122070312,carte,succès
+a0afe086,178,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,9.199999809265137,paypal,succès
+dc9c3239,53,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,102.73999786376953,virement,succès
+fe4c93ef,104,Mens Casual Slim Fit,men's clothing,14.539999961853027,virement,en_attente
+f3fb4b63,130,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,96.9800033569336,virement,succès
+97470ce2,27,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,906.8800048828125,carte,succès
+c49cf52d,31,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,34.939998626708984,paypal,en_attente
+f8138272,25,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,588.3800048828125,paypal,succès
+49e9813e,39,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,10.619999885559082,paypal,échoué
+ff38c780,111,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,96.06999969482422,carte,échoué
+dadfb127,198,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,52.11000061035156,virement,échoué
+b2247ee7,175,Mens Casual Slim Fit,men's clothing,14,virement,succès
+8ed882b4,30,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,616.8800048828125,paypal,succès
+a125ae12,66,White Gold Plated Princess,jewelery,8.619999885559082,carte,en_attente
+a4366eb0,200,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,48.790000915527344,paypal,succès
+ac67c322,123,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,11.289999961853027,virement,succès
+29adb236,75,Solid Gold Petite Micropave ,jewelery,156.19000244140625,paypal,succès
+3be9f787,11,White Gold Plated Princess,jewelery,8.449999809265137,virement,succès
+521f2997,68,Opna Women's Short Sleeve Moisture,women's clothing,7.570000171661377,carte,succès
+f9f1811d,101,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,11.880000114440918,paypal,en_attente
+928a4e9a,97,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,97.55999755859375,virement,succès
+d282c497,175,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,19.790000915527344,virement,succès
+ab598e76,76,Mens Cotton Jacket,men's clothing,46.86000061035156,carte,succès
+3ee219a5,176,Mens Casual Slim Fit,men's clothing,13.960000038146973,virement,succès
+316e0d50,114,Solid Gold Petite Micropave ,jewelery,148.3000030517578,virement,échoué
+fb92b60a,12,Mens Cotton Jacket,men's clothing,48.7400016784668,virement,succès
+b0eb40ae,179,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,53.099998474121094,paypal,en_attente
+bad18c69,166,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,111.37000274658203,paypal,succès
+09980988,68,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,20.719999313354492,carte,succès
+bca96e46,66,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,26.81999969482422,carte,succès
+f3376be8,193,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,106.55000305175781,virement,succès
+148df5c2,55,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,18.780000686645508,paypal,échoué
+92a6f09c,91,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,91.91000366210938,paypal,échoué
+93e12f76,198,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,8.529999732971191,carte,succès
+06d10c03,197,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,12.710000038146973,carte,en_attente
+aa89f92d,99,Mens Casual Slim Fit,men's clothing,15.890000343322754,paypal,en_attente
+e8c661cf,178,White Gold Plated Princess,jewelery,8.640000343322754,paypal,succès
+43c8485f,6,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,10.800000190734863,virement,échoué
+56ca7cc2,154,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,55.380001068115234,virement,échoué
+ecc0e73f,121,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,105.94999694824219,carte,échoué
+62b05016,18,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,595.3200073242188,virement,en_attente
+a3f37cf3,121,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,9.210000038146973,carte,en_attente
+c4ccc1e1,101,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,89.44999694824219,paypal,échoué
+a4a1a51f,75,Mens Cotton Jacket,men's clothing,45.209999084472656,virement,succès
+642bb6ac,24,Mens Casual Slim Fit,men's clothing,13.119999885559082,virement,succès
+62146b82,87,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,652.780029296875,virement,succès
+f4828103,192,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,58.70000076293945,carte,succès
+215b16d0,179,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,549.7999877929688,paypal,échoué
+1b1dcf77,119,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,50.86000061035156,paypal,en_attente
+9c07ed1c,59,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,49.2400016784668,paypal,en_attente
+7f650140,79,Mens Cotton Jacket,men's clothing,51.630001068115234,virement,succès
+7839922c,127,Mens Casual Slim Fit,men's clothing,13.9399995803833,paypal,succès
+ba1781d4,155,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,9.130000114440918,carte,échoué
+bca8adc5,172,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,856.010009765625,virement,succès
+287925a4,43,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,108.94000244140625,virement,échoué
+520504f3,157,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,968.9600219726562,carte,succès
+38334bdf,96,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,25.1200008392334,carte,succès
+1eb1243c,68,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,103.6500015258789,virement,succès
+667cfb69,136,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,12.720000267028809,carte,succès
+7cac7a5c,1,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,573.02001953125,virement,succès
+f42053a0,100,White Gold Plated Princess,jewelery,9.829999923706055,carte,échoué
+f332bed9,90,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,36.72999954223633,carte,échoué
+85c95931,34,Opna Women's Short Sleeve Moisture,women's clothing,7.639999866485596,paypal,succès
+05672899,94,Mens Cotton Jacket,men's clothing,55.77000045776367,virement,succès
+23e9eca3,125,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,646.0499877929688,paypal,succès
+a9c6b4ae,132,Solid Gold Petite Micropave ,jewelery,148.30999755859375,paypal,succès
+f29a8e91,79,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,105.94000244140625,carte,succès
+16a9b805,8,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,47.06999969482422,virement,échoué
+27190f57,176,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,103.16999816894531,virement,succès
+b83804f0,177,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,54.310001373291016,carte,succès
+9df7c18c,173,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,91.76000213623047,carte,échoué
+c8af4fd4,166,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,56.33000183105469,virement,succès
+af9aad18,57,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,26.899999618530273,virement,succès
+f220652a,44,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,8.859999656677246,carte,en_attente
+087a0a97,52,Mens Cotton Jacket,men's clothing,55.630001068115234,paypal,succès
+3b72f59c,168,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,655.1199951171875,paypal,succès
+f928c618,89,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,21.549999237060547,virement,succès
+d8a5a294,3,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,9.5,paypal,succès
+34a0cc31,54,Mens Cotton Jacket,men's clothing,50.58000183105469,carte,succès
+98865c1a,74,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,666.3699951171875,virement,succès
+462b8ee0,51,Solid Gold Petite Micropave ,jewelery,165.8300018310547,carte,succès
+02529cc5,85,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,51.33000183105469,virement,échoué
+eba0536c,41,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,11.15999984741211,paypal,succès
+393b871b,67,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,91.87000274658203,virement,succès
+7306da1e,127,Mens Cotton Jacket,men's clothing,45.599998474121094,carte,échoué
+7449671c,125,Mens Casual Slim Fit,men's clothing,12.90999984741211,carte,en_attente
+a630fbe1,157,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,105.45999908447266,carte,succès
+c2ea3872,75,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,499.42999267578125,paypal,succès
+ad72927c,64,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,46.279998779296875,virement,succès
+4992f17f,45,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,9.84000015258789,paypal,succès
+dbd1440c,4,Opna Women's Short Sleeve Moisture,women's clothing,7.420000076293945,virement,échoué
+95e633f1,111,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,10.020000457763672,paypal,succès
+2393a9c1,125,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,55.4900016784668,paypal,en_attente
+b4b21a3e,54,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,91.83999633789062,carte,en_attente
+de2bdb3e,149,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,102.2300033569336,virement,succès
+12d4dcdf,11,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,884.6500244140625,virement,succès
+3d07a5bf,92,Opna Women's Short Sleeve Moisture,women's clothing,7.760000228881836,virement,succès
+bdbda943,71,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,22.229999542236328,carte,en_attente
+bcb430b4,76,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,100.19000244140625,virement,échoué
+7c73541c,119,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,95.56999969482422,paypal,succès
+68b51bec,4,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,587.72998046875,paypal,succès
+a2c49cf2,35,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,918.489990234375,virement,échoué
+c08f7c69,106,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,9.130000114440918,virement,succès
+6a164036,75,Opna Women's Short Sleeve Moisture,women's clothing,7.21999979019165,virement,succès
+45f56d00,52,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,11.010000228881836,carte,succès
+942d5716,191,Mens Casual Slim Fit,men's clothing,15.529999732971191,carte,en_attente
+6625b543,91,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,578.7100219726562,virement,succès
+fdbb0531,29,White Gold Plated Princess,jewelery,9.550000190734863,virement,en_attente
+99e9c3aa,198,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,48.59000015258789,paypal,succès
+e21b08eb,80,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,26.200000762939453,carte,en_attente
+0dd376de,33,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,34.619998931884766,virement,succès
+ec0e7ab7,22,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,18.200000762939453,carte,succès
+36c17cef,177,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,55.689998626708984,virement,succès
+6ea27f94,49,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,93.83000183105469,carte,succès
+24638637,83,Mens Cotton Jacket,men's clothing,55.900001525878906,paypal,succès
+01429dc4,25,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,10.8100004196167,paypal,succès
+d67689e3,133,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,91.5,carte,en_attente
+f8d476c0,73,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,9.100000381469727,virement,succès
+5e3d58ab,57,Mens Cotton Jacket,men's clothing,55.83000183105469,paypal,échoué
+7bf6a04c,148,Mens Casual Slim Fit,men's clothing,13.380000114440918,virement,échoué
+c33ea9c8,20,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,667.1500244140625,virement,en_attente
+5760aa63,179,Opna Women's Short Sleeve Moisture,women's clothing,6.599999904632568,paypal,succès
+b4ca8c50,140,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,11.8100004196167,paypal,échoué
+c13c5060,81,Mens Cotton Jacket,men's clothing,45.43000030517578,virement,en_attente
+80e1efca,193,White Gold Plated Princess,jewelery,9.079999923706055,carte,échoué
+7c72a6d8,164,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,106.63999938964844,paypal,en_attente
+ce06f332,176,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,100.44999694824219,virement,succès
+9ecdb283,40,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,97.2699966430664,carte,succès
+0980ac36,156,Solid Gold Petite Micropave ,jewelery,142.1699981689453,paypal,succès
+3bd72e92,165,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,832.6900024414062,paypal,succès
+2c46da00,84,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,53.630001068115234,carte,succès
+cb109268,42,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,29.34000015258789,carte,succès
+47d10812,34,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,19.81999969482422,paypal,succès
+88071ebd,190,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,56.209999084472656,paypal,en_attente
+86cc4cb3,147,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,101.93000030517578,paypal,en_attente
+7d51e112,173,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,32.119998931884766,virement,succès
+c692d195,56,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,673.5399780273438,carte,échoué
+85031da7,133,Solid Gold Petite Micropave ,jewelery,141.24000549316406,paypal,succès
+d227cd3e,199,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,87.62999725341797,paypal,succès
+d093e413,119,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,39.45000076293945,virement,succès
+b662d01f,191,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,18.860000610351562,paypal,en_attente
+a504866d,129,Mens Casual Slim Fit,men's clothing,14.279999732971191,virement,succès
+e31c55c4,124,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,599.1500244140625,carte,succès
+94e52e3c,139,White Gold Plated Princess,jewelery,9.890000343322754,paypal,succès
+745e51c7,33,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,89.4000015258789,carte,succès
+50fa7118,150,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,101.30000305175781,carte,succès
+f2c67a36,63,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,103.38999938964844,paypal,succès
+29cbb451,104,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,12.020000457763672,paypal,succès
+002787d4,30,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,97.4000015258789,carte,succès
+80b587ab,3,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,56.029998779296875,virement,échoué
+8db0a27a,161,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,926.8300170898438,paypal,succès
+9ea20b96,121,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,54.36000061035156,paypal,échoué
+e3884e9d,99,Opna Women's Short Sleeve Moisture,women's clothing,6.860000133514404,carte,en_attente
+570cdff3,60,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,20.3799991607666,virement,succès
+971a41b6,61,White Gold Plated Princess,jewelery,9.569999694824219,virement,succès
+ea10b98f,171,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,61.790000915527344,carte,succès
+94250229,68,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,492.489990234375,virement,succès
+1f243134,151,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,825.0900268554688,paypal,succès
+279d8d9a,61,Mens Casual Slim Fit,men's clothing,13.109999656677246,carte,échoué
+594dbac7,103,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,99.01000213623047,paypal,succès
+a51a4a39,157,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,21.549999237060547,paypal,succès
+6b1787e0,101,Solid Gold Petite Micropave ,jewelery,134.49000549316406,paypal,en_attente
+c181ccc0,44,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,87.29000091552734,carte,échoué
+63702c14,164,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,577.3099975585938,paypal,succès
+c5c38610,189,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,824,virement,échoué
+5889bf9d,39,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,35.47999954223633,paypal,succès
+b0bfd9e7,34,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,11.010000228881836,virement,succès
+6a766b16,34,Mens Cotton Jacket,men's clothing,54.439998626708984,carte,en_attente
+51f815dd,53,Solid Gold Petite Micropave ,jewelery,152.00999450683594,paypal,en_attente
+e298a305,157,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,94.66999816894531,paypal,en_attente
+429daac8,83,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,19.100000381469727,paypal,succès
+193c005f,98,Mens Casual Slim Fit,men's clothing,13.539999961853027,carte,en_attente
+5c205efb,106,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,622.6099853515625,carte,succès
+cc912b70,6,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,951.6300048828125,paypal,en_attente
+0b28e2b7,173,Opna Women's Short Sleeve Moisture,women's clothing,7.840000152587891,paypal,en_attente
+b649feaf,58,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,38.20000076293945,virement,en_attente
+2fe2efb5,52,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,9.3100004196167,paypal,succès
+79f6c8d0,135,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,98.66000366210938,carte,succès
+6869b667,33,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,105.62999725341797,carte,échoué
+3593282d,74,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,586.0999755859375,paypal,succès
+f64e9143,87,Opna Women's Short Sleeve Moisture,women's clothing,7.829999923706055,paypal,en_attente
+cbc9d11d,187,Mens Casual Slim Fit,men's clothing,14.529999732971191,paypal,succès
+6320995a,89,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,653.52001953125,virement,succès
+a4422bfb,184,Solid Gold Petite Micropave ,jewelery,143.8800048828125,carte,succès
+bf694260,57,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,9.539999961853027,paypal,succès
+4bf69e1a,30,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,92.25,carte,en_attente
+318d5896,100,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,18.56999969482422,carte,échoué
+831ab03d,11,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,676.6599731445312,paypal,échoué
+31f85460,102,Solid Gold Petite Micropave ,jewelery,143.2100067138672,carte,en_attente
+714d6f92,156,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,26.81999969482422,carte,succès
+216d3387,192,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,10.680000305175781,virement,succès
+4b4e5396,29,Mens Cotton Jacket,men's clothing,46.029998779296875,virement,en_attente
+2e20c744,102,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,642.5599975585938,virement,succès
+c3e79281,25,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,49.86000061035156,virement,échoué
+53719bfb,168,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,18,carte,succès
+10003063,119,White Gold Plated Princess,jewelery,9.260000228881836,paypal,succès
+eb908c88,165,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,96.13999938964844,virement,échoué
+93bbdcd8,200,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,101.30999755859375,paypal,en_attente
+a5b32790,130,Mens Casual Slim Fit,men's clothing,15.960000038146973,paypal,en_attente
+e335968a,168,Solid Gold Petite Micropave ,jewelery,149.9600067138672,paypal,échoué
+fe102834,20,White Gold Plated Princess,jewelery,9.520000457763672,virement,échoué
+9c032f2d,146,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,535.280029296875,carte,succès
+1b9ff29c,43,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,988.8200073242188,virement,succès
+35f93d51,104,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,10.850000381469727,paypal,succès
+93114cd9,83,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,98.66999816894531,paypal,succès
+3c220c02,54,Opna Women's Short Sleeve Moisture,women's clothing,7.53000020980835,paypal,succès
+c236cceb,123,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,104.26000213623047,carte,succès
+8f852b28,27,Solid Gold Petite Micropave ,jewelery,137.32000732421875,paypal,succès
+33e496a1,181,White Gold Plated Princess,jewelery,9.1899995803833,carte,échoué
+e8bb0ebc,122,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,93.83000183105469,virement,succès
+bdf28f95,172,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,47.619998931884766,paypal,succès
+79031a2b,84,Mens Casual Slim Fit,men's clothing,14.220000267028809,carte,succès
+c5cfc839,135,Solid Gold Petite Micropave ,jewelery,151.4600067138672,virement,en_attente
+6be90205,86,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,524.0399780273438,carte,succès
+c3d69e72,140,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,47.72999954223633,carte,échoué
+ae90f350,147,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,36.209999084472656,paypal,succès
+4e743e2c,194,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,11.039999961853027,paypal,échoué
+933c4bcf,125,Mens Casual Slim Fit,men's clothing,15.119999885559082,virement,échoué
+6cdfdfd8,182,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,92.5,paypal,succès
+bfd87b6f,4,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,46.5,carte,succès
+d606243d,153,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,99.86000061035156,paypal,en_attente
+e01b3134,79,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,47.09000015258789,paypal,succès
+5cc03346,173,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,8.039999961853027,carte,succès
+62b6c8dd,123,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,8.859999656677246,paypal,succès
+c3b942b4,109,Opna Women's Short Sleeve Moisture,women's clothing,6.690000057220459,paypal,échoué
+1dfa7b81,56,Mens Casual Slim Fit,men's clothing,15.619999885559082,carte,succès
+b66230e3,24,White Gold Plated Princess,jewelery,8.850000381469727,paypal,succès
+b6de1a28,162,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,105.72000122070312,paypal,succès
+16985f90,107,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,27.479999542236328,carte,en_attente
+014520f2,77,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,99.16000366210938,paypal,échoué
+52c600d2,180,Mens Cotton Jacket,men's clothing,54.459999084472656,virement,succès
+5a9a1269,72,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,28.200000762939453,carte,succès
+35900b23,35,Opna Women's Short Sleeve Moisture,women's clothing,7.880000114440918,carte,succès
+091f53a3,143,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,648.5599975585938,carte,succès
+54e4085c,186,Solid Gold Petite Micropave ,jewelery,138.8000030517578,virement,succès
+3b5b9fae,187,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,90.3499984741211,paypal,succès
+f21ff1f4,7,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,107.55999755859375,virement,en_attente
+8d46fddb,147,Opna Women's Short Sleeve Moisture,women's clothing,6.579999923706055,paypal,succès
+caec6677,121,White Gold Plated Princess,jewelery,8.930000305175781,virement,succès
+134cb2f2,189,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,519.9199829101562,carte,succès
+8d076bfe,92,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,19.6200008392334,carte,succès
+2c62d669,94,Mens Cotton Jacket,men's clothing,54.220001220703125,virement,en_attente
+85e0862a,108,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,10.960000038146973,virement,succès
+e57fe499,110,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,53.9900016784668,virement,succès
+f486596c,62,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,25.989999771118164,carte,échoué
+6e06508e,38,Mens Casual Slim Fit,men's clothing,15.710000038146973,virement,succès
+6273c458,84,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,9.920000076293945,carte,succès
+a0b09b6f,12,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,94.29000091552734,paypal,succès
+ee8e504f,131,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,92.20999908447266,paypal,échoué
+9a5ff85c,141,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,93.83999633789062,virement,en_attente
+5fa01e76,126,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,969.75,paypal,succès
+ca31e25a,100,Solid Gold Petite Micropave ,jewelery,141.3300018310547,virement,en_attente
+d4ccbb19,143,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,10.359999656677246,carte,échoué
+a4477ae0,134,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,92.45999908447266,virement,succès
+e4818b6d,181,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,24.219999313354492,paypal,succès
+404ce895,56,Opna Women's Short Sleeve Moisture,women's clothing,6.46999979019165,paypal,succès
+47f72122,102,Mens Casual Slim Fit,men's clothing,15.229999542236328,virement,en_attente
+a0bded37,73,White Gold Plated Princess,jewelery,8.630000114440918,carte,échoué
+8611eb3e,88,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,96.9000015258789,paypal,en_attente
+a59ed65b,54,Mens Casual Slim Fit,men's clothing,15.149999618530273,paypal,échoué
+e8ba924d,62,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,102.30999755859375,paypal,succès
+abf155d3,146,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,567.25,carte,en_attente
+53371792,157,Mens Casual Slim Fit,men's clothing,15.550000190734863,virement,échoué
+58daee15,30,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,668.989990234375,carte,échoué
+5a4c86f3,1,Solid Gold Petite Micropave ,jewelery,150.52999877929688,virement,en_attente
+19eaf4bb,75,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,46.880001068115234,carte,succès
+6b466be8,163,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,34.11000061035156,virement,succès
+5775102f,76,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,9.359999656677246,paypal,succès
+1aa77f8b,120,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,106.62000274658203,carte,succès
+461a0280,59,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,57.130001068115234,virement,succès
+76337891,15,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,99.29000091552734,virement,en_attente
+9edfbafa,72,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,52.40999984741211,carte,succès
+3f42ec03,38,Opna Women's Short Sleeve Moisture,women's clothing,7.920000076293945,virement,succès
+bfea25b2,13,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,11.229999542236328,carte,en_attente
+cf6b347c,120,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,97.54000091552734,paypal,succès
+d08bcd13,144,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,18.8700008392334,carte,succès
+12b59d79,181,Mens Cotton Jacket,men's clothing,47.439998626708984,carte,échoué
+44786d0d,95,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,9.029999732971191,paypal,succès
+97d57e4d,43,Mens Casual Slim Fit,men's clothing,13.640000343322754,paypal,en_attente
+d4a47095,15,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,611.219970703125,paypal,succès
+46442061,7,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,818.260009765625,carte,en_attente
+214e2045,31,Opna Women's Short Sleeve Moisture,women's clothing,7.28000020980835,virement,succès
+486b91fd,40,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,12.779999732971191,carte,succès
+bea3dfc3,44,White Gold Plated Princess,jewelery,8.40999984741211,carte,succès
+6e5f58c2,141,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,10.270000457763672,virement,succès
+2a32de27,63,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,577.6400146484375,virement,succès
+0276d4d9,147,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,25.950000762939453,carte,succès
+af5c1746,189,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,9.739999771118164,paypal,succès
+b3962328,85,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,48.709999084472656,paypal,succès
+a5d96f83,82,Opna Women's Short Sleeve Moisture,women's clothing,6.929999828338623,carte,succès
+65882db4,146,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,19.639999389648438,virement,en_attente
+3960987e,59,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,626.6900024414062,paypal,succès
+3714d19b,100,Solid Gold Petite Micropave ,jewelery,151.6999969482422,virement,succès
+be2f0fe2,1,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,93.8499984741211,paypal,succès
+712ba1a6,17,Mens Cotton Jacket,men's clothing,47.150001525878906,virement,échoué
+49445ad9,3,Mens Casual Slim Fit,men's clothing,15.380000114440918,paypal,succès
+5798c639,54,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,579.4000244140625,paypal,succès
+45f6fb8f,171,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,56.029998779296875,carte,succès
+031b97a9,193,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,50.90999984741211,paypal,succès
+87e74303,105,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,24.170000076293945,paypal,succès
+935d0d96,138,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,18.8799991607666,virement,succès
+50a1b2e0,38,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,582.4500122070312,carte,en_attente
+0d4a6fdb,34,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,34.060001373291016,paypal,succès
+cc16d342,27,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,8.760000228881836,paypal,succès
+1ae7daa3,166,Mens Casual Slim Fit,men's clothing,14.1899995803833,paypal,succès
+cab35572,180,Solid Gold Petite Micropave ,jewelery,157.74000549316406,carte,succès
+9a3e4169,8,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,101.95999908447266,paypal,succès
+10ad2ce7,65,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,29.479999542236328,carte,succès
+ec8b0ed8,89,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,8.029999732971191,virement,en_attente
+eed38f65,29,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,694.72998046875,paypal,échoué
+c8416b3d,112,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,58.060001373291016,carte,en_attente
+b1d0229e,65,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,19.260000228881836,carte,succès
+a4000344,123,White Gold Plated Princess,jewelery,9.789999961853027,carte,succès
+7fe307e6,58,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,880.3599853515625,carte,succès
+234ee04e,76,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,22,virement,échoué
+155cb3b1,188,Mens Casual Slim Fit,men's clothing,15.869999885559082,paypal,succès
+c3d8cc99,195,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,575.6300048828125,virement,échoué
+fed21e91,197,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,106.9800033569336,paypal,en_attente
+718c8619,9,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,37.779998779296875,virement,en_attente
+a68f8b63,70,Solid Gold Petite Micropave ,jewelery,141.75,paypal,succès
+19d9202c,125,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,8.880000114440918,paypal,succès
+c5e9e65f,130,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,102.5999984741211,paypal,succès
+29ad71b2,31,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,106.06999969482422,carte,succès
+38da3cce,88,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,108.62000274658203,paypal,échoué
+a5872eaa,106,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,994.6199951171875,virement,succès
+8964eb5f,95,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,10.579999923706055,paypal,en_attente
+74c97a1c,68,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,96.25,carte,échoué
+7b531c59,81,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,19.170000076293945,carte,succès
+9cf8cfb0,38,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,49.0099983215332,virement,en_attente
+456b3011,18,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,10.319999694824219,virement,échoué
+ef03cd26,167,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,101.27999877929688,carte,échoué
+260dffc4,146,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,33.58000183105469,paypal,succès
+17b7a253,175,Mens Casual Slim Fit,men's clothing,14.210000038146973,carte,échoué
+9648d0a6,160,Solid Gold Petite Micropave ,jewelery,144.69000244140625,virement,succès
+20083104,31,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,8.859999656677246,paypal,succès
+ec7817fc,180,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,108.30999755859375,virement,succès
+90dea43d,12,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,38.20000076293945,carte,succès
+7570cb5c,111,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,11.09000015258789,paypal,succès
+7896cb31,45,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,62.79999923706055,carte,succès
+89cdc468,94,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,535.6099853515625,carte,succès
+cfc39ee7,139,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,891.0399780273438,virement,succès
+74e8b28f,140,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,88.33000183105469,virement,succès
+f157303f,18,Solid Gold Petite Micropave ,jewelery,147.1699981689453,paypal,en_attente
+6e3a1ace,6,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,10.350000381469727,virement,succès
+ed5a027e,149,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,104.98999786376953,paypal,en_attente
+251d3382,110,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,8.260000228881836,virement,en_attente
+0763a2c3,51,Opna Women's Short Sleeve Moisture,women's clothing,7.25,paypal,en_attente
+6bbdd93a,116,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,91.87000274658203,virement,succès
+8f07f52b,101,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,18.719999313354492,virement,succès
+9f1a607b,137,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,51.47999954223633,paypal,échoué
+4dee2877,61,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,52.54999923706055,paypal,échoué
+f87403b3,164,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,25.889999389648438,virement,en_attente
+ec17ed18,141,Opna Women's Short Sleeve Moisture,women's clothing,7.53000020980835,virement,succès
+34f8f0e4,123,Mens Cotton Jacket,men's clothing,54.95000076293945,paypal,en_attente
+14b4a902,160,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,562.6400146484375,paypal,succès
+f5133c91,116,White Gold Plated Princess,jewelery,9.489999771118164,virement,en_attente
+0d67984c,148,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,923.0499877929688,paypal,succès
+1d7c227e,180,Mens Cotton Jacket,men's clothing,47.849998474121094,carte,en_attente
+6f66f638,69,Mens Casual Slim Fit,men's clothing,14.670000076293945,carte,succès
+020b4a8b,162,Solid Gold Petite Micropave ,jewelery,159.14999389648438,carte,échoué
+441b8901,179,White Gold Plated Princess,jewelery,8.430000305175781,paypal,succès
+350dd70b,136,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,56.34000015258789,carte,succès
+d6bb3ee9,108,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,29.389999389648438,virement,échoué
+4c629b47,100,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,8.279999732971191,paypal,en_attente
+65741cd9,1,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,19.829999923706055,paypal,succès
+07a4deaa,93,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,9.300000190734863,paypal,succès
+1b350b77,107,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,90.80000305175781,virement,en_attente
+9163fe12,133,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,8.119999885559082,paypal,succès
+b91009d2,158,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,99.36000061035156,virement,échoué
+c71f400a,68,Mens Casual Slim Fit,men's clothing,13.630000114440918,virement,succès
+9f1bdc28,134,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,490.25,paypal,succès
+4ee15898,75,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,917.6900024414062,carte,succès
+3843251d,12,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,52.0099983215332,virement,succès
+efcd5866,45,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,9.220000267028809,carte,en_attente
+89eb947e,151,Opna Women's Short Sleeve Moisture,women's clothing,7.369999885559082,paypal,succès
+5b7d2964,47,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,906.6500244140625,virement,succès
+962e6d52,98,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,27.920000076293945,virement,succès
+d48341a8,40,Solid Gold Petite Micropave ,jewelery,142.6699981689453,paypal,succès
+9bd6f6ee,52,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,522.8499755859375,virement,succès
+23dc6ed4,186,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,820.9000244140625,paypal,en_attente
+e86aa2d5,119,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,51.9900016784668,carte,échoué
+4b143e1b,179,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,10.600000381469727,virement,succès
+a9a26be9,200,Solid Gold Petite Micropave ,jewelery,146.7899932861328,virement,succès
+8efe33e9,158,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,26.520000457763672,paypal,succès
+fffb7016,192,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,38.810001373291016,virement,succès
+3ecff43e,162,Mens Casual Slim Fit,men's clothing,12.850000381469727,paypal,succès
+edfc0723,143,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,100.47000122070312,carte,échoué
+4c6f68b3,2,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,891.4099731445312,carte,échoué
+eb720e69,63,Opna Women's Short Sleeve Moisture,women's clothing,7.829999923706055,paypal,en_attente
+f21ebb39,154,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,20.200000762939453,paypal,échoué
+22d50ffb,164,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,948.030029296875,virement,succès
+bae20684,126,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,690.3200073242188,paypal,échoué
+76c01517,184,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,9.890000343322754,carte,en_attente
+a611e365,64,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,51.369998931884766,virement,succès
+9d5e7a78,33,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,54.04999923706055,paypal,succès
+ff38dda7,126,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,490.6600036621094,carte,en_attente
+7078956b,37,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,26.06999969482422,virement,succès
+5bb24ed4,60,Mens Cotton Jacket,men's clothing,45.81999969482422,virement,succès
+c9e72990,27,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,60.52000045776367,virement,succès
+95c94f16,16,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,100.91999816894531,paypal,succès
+1ad6ab67,140,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,11.220000267028809,virement,succès
+23ac85ee,76,White Gold Plated Princess,jewelery,9.770000457763672,carte,en_attente
+2b42622e,50,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,59.41999816894531,paypal,succès
+f13ab381,114,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,101.54000091552734,carte,succès
+4005a938,139,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,98.4800033569336,carte,échoué
+84350f40,99,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,560,carte,échoué
+dd9eaff4,28,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,26.649999618530273,virement,en_attente
+a3308cf8,62,Opna Women's Short Sleeve Moisture,women's clothing,7.21999979019165,carte,échoué
+36230acb,122,Mens Cotton Jacket,men's clothing,55.18000030517578,virement,en_attente
+d3bf0cd7,154,White Gold Plated Princess,jewelery,9.390000343322754,paypal,en_attente
+fab64afd,35,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,10.470000267028809,paypal,succès
+a42351d5,21,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,103.58000183105469,virement,succès
+18444dd3,84,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,57.880001068115234,carte,en_attente
+8e4698e2,173,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,102.45999908447266,paypal,succès
+c591ad62,65,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,91.33999633789062,carte,succès
+8ced8d4c,142,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,496.05999755859375,carte,en_attente
+1f7bde2f,183,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,50.16999816894531,virement,échoué
+ea4d446d,196,Opna Women's Short Sleeve Moisture,women's clothing,6.360000133514404,paypal,succès
+4fb53e1c,36,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,91.5199966430664,paypal,succès
+adafeb21,49,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,21.600000381469727,paypal,échoué
+81101cb5,35,White Gold Plated Princess,jewelery,8.1899995803833,carte,succès
+388cf257,140,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,87.93000030517578,carte,succès
+132172f6,54,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,500.3900146484375,virement,succès
+bfbcd8a3,185,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,27.979999542236328,virement,succès
+07d953c2,139,Opna Women's Short Sleeve Moisture,women's clothing,7.940000057220459,virement,échoué
+a941fcd0,140,Solid Gold Petite Micropave ,jewelery,141.88999938964844,paypal,en_attente
+90e79874,185,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,91.43000030517578,paypal,succès
+ca4b727b,54,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,521.75,paypal,succès
+303586ef,14,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,28.959999084472656,carte,succès
+253fe5a0,60,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,11.140000343322754,paypal,succès
+0ab80a68,90,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,19.809999465942383,paypal,en_attente
+7a26bc34,153,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,601.6199951171875,virement,en_attente
+a53e616a,28,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,52.470001220703125,virement,succès
+50d02c99,15,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,100.5199966430664,carte,succès
+3e95ddb5,68,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,10.539999961853027,carte,succès
+16ce8d6b,150,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,21.829999923706055,carte,en_attente
+102a51aa,86,Solid Gold Petite Micropave ,jewelery,141.3000030517578,virement,succès
+ae0ffce8,181,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,9.050000190734863,paypal,succès
+6ed031fa,57,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,508.80999755859375,virement,en_attente
+98e285b3,182,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,49.15999984741211,paypal,succès
+0edbc5ac,133,Rain Jacket Women Windbreaker Striped Climbing Raincoats,women's clothing,37.279998779296875,paypal,en_attente
+76d64a20,184,Mens Cotton Jacket,men's clothing,48.22999954223633,carte,succès
+81972049,199,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,105.3499984741211,virement,succès
+be3d7a30,140,Solid Gold Petite Micropave ,jewelery,152.32000732421875,paypal,succès
+d368aaf4,89,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,103.62000274658203,carte,en_attente
+eada128d,91,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,540.0399780273438,carte,succès
+f1a9dab5,52,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,55.4900016784668,paypal,en_attente
+715884fc,38,White Gold Plated Princess,jewelery,8.75,carte,échoué
+e1a68fbd,41,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,9.319999694824219,paypal,succès
+3246c8b7,5,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,12.210000038146973,virement,succès
+803c877f,138,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,100.76000213623047,virement,succès
+d6dbf318,127,White Gold Plated Princess,jewelery,9.390000343322754,paypal,succès
+06d7152f,195,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,52.040000915527344,paypal,échoué
+88d63cff,73,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,536.47998046875,carte,en_attente
+5edae74b,144,BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats,women's clothing,53.83000183105469,virement,succès
+aff9b68c,142,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,26.979999542236328,carte,succès
+34b223fe,192,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,11.430000305175781,paypal,succès
+6e93e796,163,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,90.02999877929688,carte,succès
+afd58a2d,195,Solid Gold Petite Micropave ,jewelery,136.1699981689453,carte,succès
+aa0b39a7,79,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,9.010000228881836,carte,succès
+618e74d6,123,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,498.5299987792969,carte,succès
+d093f081,85,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,23.979999542236328,carte,succès
+5940e909,160,White Gold Plated Princess,jewelery,8.460000038146973,paypal,succès
+28962da9,28,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,100.86000061035156,paypal,succès
+a687d2c5,107,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,107.66000366210938,paypal,succès
+d3dac6d9,181,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,920.6300048828125,carte,succès
+e638b606,156,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,587.1300048828125,paypal,échoué
+4f7be252,90,White Gold Plated Princess,jewelery,8.5,paypal,en_attente
+be2fdde2,11,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,108.0199966430664,virement,en_attente
+158e16cd,11,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,112.5999984741211,virement,succès
+b479a6ed,118,DANVOUY Womens T Shirt Casual Cotton Short,women's clothing,11.029999732971191,paypal,succès
+b3f4e23c,27,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,92.83999633789062,paypal,succès
+1d3b5a55,70,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,9.640000343322754,carte,succès
+fbb219e1,179,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,574.3099975585938,paypal,succès
+f4548f66,159,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,914.3499755859375,carte,échoué
+8c2a5261,17,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,579.9099731445312,paypal,succès
+e2dcfad1,35,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,19.270000457763672,carte,échoué
+7fe1ce78,163,Mens Casual Slim Fit,men's clothing,13.9399995803833,carte,en_attente
+5a393ecd,140,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,606.1400146484375,virement,succès
+87d223d9,153,Solid Gold Petite Micropave ,jewelery,149.6999969482422,carte,succès
+285cfc99,181,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,10.800000190734863,virement,succès
+460a02d2,26,Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin,electronics,496.760009765625,virement,succès
+a508ef13,142,MBJ Women's Solid Short Sleeve Boat Neck V ,women's clothing,9.520000457763672,carte,en_attente
+462a9cf2,138,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,90.45999908447266,carte,succès
+15f7fe5e,101,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,618.3699951171875,virement,succès
+004ad403,50,White Gold Plated Princess,jewelery,8.9399995803833,paypal,en_attente
+01c3f473,135,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,56.790000915527344,carte,en_attente
+bf1687c0,193,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,99.72000122070312,virement,en_attente
+14bf45fd,125,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,868.72998046875,virement,succès
+d23fe4dd,40,"Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",men's clothing,103.86000061035156,carte,succès
+f7596867,150,John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet,jewelery,599.5999755859375,virement,succès
+e84d4884,130,Pierced Owl Rose Gold Plated Stainless Steel Double,jewelery,9.59000015258789,virement,succès
+eaa88013,42,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,107.61000061035156,carte,échoué
+37ce1707,199,Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5,electronics,98.94000244140625,carte,échoué
+ce558a9e,105,Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket,women's clothing,26.3799991607666,paypal,échoué
+3ad1d251,80,Mens Casual Premium Slim Fit T-Shirts ,men's clothing,22.270000457763672,virement,succès
+45c4387d,122,Mens Cotton Jacket,men's clothing,52.400001525878906,paypal,succès
+6b9904c6,91,White Gold Plated Princess,jewelery,8.489999771118164,virement,succès
+d18f95ab,168,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,59.86000061035156,paypal,en_attente
+0b22c717,159,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,87.7699966430664,carte,en_attente
+84da53a6,58,WD 2TB Elements Portable External Hard Drive - USB 3.0 ,electronics,55.95000076293945,virement,succès
+03ba829c,200,SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s,electronics,107.6500015258789,paypal,succès
+03863f47,174,WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive,electronics,113.7699966430664,virement,en_attente
+bbebbe84,190,Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ,electronics,832.3200073242188,virement,succès
