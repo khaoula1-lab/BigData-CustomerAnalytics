@@ -9,11 +9,16 @@ Projet de fin de module « Fondamentaux de Big Data », ENSA Tétouan, filière 
 ## Aperçu
 
 Un producteur génère en continu des événements e-commerce (navigation, paiements, support client) à partir de deux API publiques. Ces événements transitent par Kafka, sont enrichis par Spark (NLP, score d'engagement, recommandation), stockés dans MongoDB, puis affichés dans un dashboard Streamlit mis à jour toutes les 10 secondes. Un modèle de Machine Learning prédit l'intention d'achat (achat ou abandon).
+
+
 <img width="1920" height="1080" alt="Capture d&#39;écran 2026-10-08 213726" src="https://github.com/user-attachments/assets/298ab1a6-b760-4ac3-8962-8031ae7bcf02" />
 
 ## Architecture
 
-![KPIs et courbe de conversion]<img width="572" height="617" alt="image" src="https://github.com/user-attachments/assets/32218c74-2773-494a-bf75-b2fd4d8591c2" />
+
+
+<img width="572" height="617" alt="image" src="https://github.com/user-attachments/assets/32218c74-2773-494a-bf75-b2fd4d8591c2" />
+
 
 
 | Topic Kafka | Contenu |
@@ -98,10 +103,14 @@ Pour arrêter : `docker-compose down`.
 
 Le dashboard lit MongoDB en direct et se rafraîchit toutes les 10 secondes : KPIs, courbe de conversion, tunnel de conversion, répartition par catégorie et source de trafic, statut des paiements, motifs de support, nuage de mots des avis et comparaison des modèles.
 
-![Tunnel de conversion et paiements]<img width="1920" height="1080" alt="Capture d&#39;écran 2026-10-08 213811" src="https://github.com/user-attachments/assets/a77bf3ea-4060-4eae-a055-556480c85ae2" />
+
+<img width="1920" height="1080" alt="Capture d&#39;écran 2026-10-08 213811" src="https://github.com/user-attachments/assets/a77bf3ea-4060-4eae-a055-556480c85ae2" />
 
 
-![Nuage de mots des avis clients]<img width="956" height="658" alt="image" src="https://github.com/user-attachments/assets/280e2c52-07c8-49a3-bb60-171fdd2a434c" />
+
+
+<img width="956" height="658" alt="image" src="https://github.com/user-attachments/assets/280e2c52-07c8-49a3-bb60-171fdd2a434c" />
+
 
 
 ## Résultats
