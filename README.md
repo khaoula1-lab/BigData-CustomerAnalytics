@@ -109,7 +109,12 @@ Le dashboard lit MongoDB en direct et se rafraîchit toutes les 10 secondes : KP
 
 
 
-<img width="956" height="658" alt="image" src="https://github.com/user-attachments/assets/280e2c52-07c8-49a3-bb60-171fdd2a434c" />
+<img width="1120" height="605" alt="image" src="https://github.com/user-attachments/assets/65e4f899-f5d2-45b5-bd94-b5a41cb7a1a9" />
+
+
+
+<img width="1112" height="556" alt="image" src="https://github.com/user-attachments/assets/ef8faaff-e4da-4795-a5f2-94327198c608" />
+
 
 
 
